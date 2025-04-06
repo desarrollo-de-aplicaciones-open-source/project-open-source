@@ -74,12 +74,12 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 ### 1.1. **Startup Profile.**
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 ####     1.1.1. Descripción del startup
-La startup, presentada con el nombre de “Integradis”, se enfoca en ofrecer una solución de índole tecnológica avanzada a la industria champiñonera del Perú. Para ello, implementa una plataforma encargada de segmentar el proceso de producción del cultivo de champiñones en determinadas fases. Estas involucran la elaboración del compost, fase de cocina (cocción, pasteurización y acondicionamiento del búnker), la recolección y siembra, la administración de procesos, entre otros. Así mismo, se establece un análisis efectivo entre datos históricos de previo registro y actualizados a tiempo real para la trazabilidad de metas a largo plazo como agroempresa. Es así que, se evalúan los costos operativos actuales, la demanda de exportaciones y se toman futuras decisiones dentro del mercado. Nuestra misión es revolucionar la forma en que las fábricas de champiñones monitorean, registran y optimizan sus procesos de producción a través de una aplicación web intuitiva y poderosa.
 
-**Misión:** Revolucionar la documentación de los procesos fundamentales de las fábricas enfocadas en la producción de champiñones del Perú.
+La startup **LosbAutistas** tiene como objetivo ofrecer una solución tecnológica avanzada para optimizar la gestión administrativa de academias educativas pre-universitarias en el Perú. A través de nuestra plataforma web **AkaGest**, buscamos agilizar y mejorar los procesos fundamentales dentro de las academias, como la matrícula de alumnos, la gestión de asistencia, la asignación de horarios, y la administración de inventarios. Además, se incorpora el seguimiento de pagos tanto para estudiantes como para docentes, todo a través de un sistema centralizado y de fácil acceso.
 
-**Visión:** GreenHouse se direcciona a ser la plataforma más destacada dentro del mercado respecto al registro de procesos para los próximos tres años.
-Integradis busca ser reconocido como un modelo de negocio sostenible y comprometido en brindar un servicio de calidad capaz de satisfacer las necesidades de los usuarios.
+**Misión:** Revolucionar la gestión administrativa de las academias educativas pre-universitarias en el Perú, ofreciendo una plataforma que optimice procesos clave de matrícula, asistencia, asignación de horarios, gestión de inventarios y pagos.
+
+**Visión:** Convertirnos en líderes en la transformación digital de la gestión administrativa de academias pre-universitarias presenciales en el Perú, asegurando la eficiencia, transparencia y accesibilidad de sus procesos internos mediante soluciones tecnológicas innovadoras.
 
 ##### Logotipo de la Startup:
 ![logotipo_start](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/e6a54426-ae3c-4f8f-a684-a6bfcc53ee35)
@@ -95,6 +95,17 @@ Integradis busca ser reconocido como un modelo de negocio sostenible y compromet
 | Mi nombre es **Alan Enrique Galavis Du Bois**, tengo 20 años y actualmente curso el sexto ciclo de la carrera de ingeniería de software en la UPC (Universidad Peruana de Ciencias Aplicadas). Considero que soy organizado, perseverante y creativo, cualidades que me serán de gran utilidad al momento de trabajar en equipo. Me apasiona encontrar soluciones innovadoras a problemas relacionados con la computación. Al haber crecido en la era digital, estoy familiarizado con el uso de tecnologías de la información y la comunicación.                                                                                                                                                                          |                       ![](https://hackmd.io/_uploads/S1znb692n.png')                        |
 | Mi nombre es **Carlo Luca Seminario Garbín** tengo 19 años de edad y actualmente curso el quinto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo considero que soy bueno identificando problemáticas y buscando soluciones, a lo que le puedo sumar los conocimientos previos de los ciclos anteriores en cursos de programación y de empresas.                                                                                                                                                 |                        ![](https://hackmd.io/_uploads/SJvfXTq22.png)                        |
 | Mi nombre es **Andrés Eduardo Soto Kong Requena**, soy estudiante de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Me gusta generar soluciones para problemas digitales, es por ello que elegí dicha carrera. Además, me considero bueno para trabajar en situaciones bajo estrés. De la misma forma, considero que las situaciones de mi vida personal me han preparado para afrontar una gran variedad de situaciones en las áreas, tanto laboral como social. Finalmente, soy una persona responsable, lo cual me ha ayudado en una gran cantidad de ocasiones en el momento de la entrega de trabajos.                                                                                 |                        ![](https://hackmd.io/_uploads/r1eHSaq32.png)                        |
+
+
+| **Foto**         | **Nombre**                | **Código**              | **Carrera**               | **Resumen de Conocimientos Técnicos y Habilidades**                                                                                              |
+|------------------|---------------------------|-------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Foto_Daniel]() | **Daniel Crispin Ramos**  | U20221G120              | Ingeniería de Software    | Conocimiento en bases de datos y gestión de proyectos. Experiencia en interfaces de usuario y soluciones para la administración educativa.       |
+| ![Foto_Paul]()   | **Paul Sulca Gonzales**   |  | Ingeniería de Software |                      |
+| ![Foto_Salim]()  | **Salim Ramirez Mestanza** |  | Ingeniería de Software |     |
+| ![Foto_Diego]()  | **Diego**                 |  | Ingeniería de Software |                                                                        |
+| ![Foto_Rafael]() | **Rafael**                |  | Ingeniería de Software |                                                                                                           |
+
+
 
 
 ### 1.2. **Solution Profile.**
