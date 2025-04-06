@@ -30,10 +30,10 @@ La ausencia de un sistema unificado también impide tomar decisiones informadas 
 5. **El cliente también puede obtener beneficios adicionales** como recordatorios de pagos vencidos, seguimiento de inventario para reposición y escalabilidad mediante distintos planes por tamaño de academia.
 6. **Vamos a adquirir la mayoría de nuestros clientes mediante** marketing digital dirigido en redes sociales (Facebook, Instagram, TikTok), campañas en Google Ads y alianzas con gremios educativos.
 7. **Generaremos dinero a través de** un modelo de suscripción mensual escalable, con tres planes: Essentials $19.90 (academias pequeñas); Pro $69.90 (academias medianas); Elite $159.90 (academias grandes).
-8. **Nuestra competencia principal en el mercado son** [REVISAR] sistemas genéricos de gestión escolar, soluciones empresariales o especializadas y hojas de cálculo utilizadas por academias.
+8. **Nuestra competencia principal en el mercado son** sistemas genéricos de gestión escolar, soluciones empresariales o especializadas y hojas de cálculo utilizadas por academias.
 9. **Lo venceremos debido a** ofrecer una solución enfocada específicamente en academias presenciales, con una interfaz amigable, soporte local y funciones diseñadas desde el enfoque de sus procesos reales.
 10. **El mayor riesgo del servicio es** que las academias, especialmente las pequeñas, no estén dispuestas a migrar desde sus métodos manuales actuales por temor al cambio o falta de conocimiento tecnológico.
-11. **Resolveremos esto a través de** [REVISAR] una interfaz simple y guiada, materiales de capacitación, soporte personalizado para la implementación, y un periodo de prueba gratuito para incentivar la adopción.
+11. **Resolveremos esto a través de** una interfaz simple y guiada, materiales de capacitación, soporte personalizado para la implementación, y un periodo de prueba gratuito para incentivar la adopción.
 
 #### User Assumptions
 
@@ -55,9 +55,8 @@ En el día a día laboral de los administradores y docentes, ayudándolos a orga
 
 **¿Cúando y cómo es nuestro producto? ¿Usado?**
 
-[REVISAR]
 Será usado todos los días hábiles, especialmente al inicio de clases, al registrar asistencia, gestionar horarios o monitorear pagos.
-Accederán desde computadoras o laptops, y en algunos casos desde tablets o smartphones. 
+Accederán desde computadoras o laptops, y en algunos casos desde tablets o smartphones.
 
 **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 
@@ -76,7 +75,6 @@ El sistema debe responder rápido, enviar notificaciones útiles y garantizar la
 
 - **Hypothesis 02:**
 
-    [REVISAR]
     **Creemos que** la integración de recordatorios de morosidad y vencimiento de pagos reducirá significativamente el retraso en los pagos de los alumnos.
 
     **Sabremos que** hemos tenido éxito.
