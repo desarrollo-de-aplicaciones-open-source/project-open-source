@@ -26,8 +26,8 @@ La ausencia de un sistema unificado también impide tomar decisiones informadas 
 1. **Creemos que nuestros clientes necesitan** una plataforma web centralizada que les permita automatizar y simplificar su gestión administrativa diaria.
 2. **Estas necesidades se pueden resolver con** un sistema web que facilite procesos clave como la matrícula de alumnos, control de asistencia, asignación de horarios, docentes y salones, gestión de inventario y seguimiento de pagos.
 3. **Nuestros clientes iniciales serán** los administradores y docentes de academias educativas presenciales pequeñas, medianas y grandes que actualmente operan con métodos manuales o herramientas desarticuladas.
-4. **El valor más importante que el cliente quiere de nuestro servicio es** tener mayor control y eficiencia en la administración de su academia, reduciendo la carga operativa y los errores humanos, y facilitando la toma de decisiones con reportes claros.
-5. **El cliente también puede obtener beneficios adicionales** [REVISAR] como alertas de pagos vencidos, reportes, seguimiento de inventario para reposición y escalabilidad mediante distintos planes por tamaño de academia.
+4. **El valor más importante que el cliente quiere de nuestro servicio es** tener mayor control y eficiencia en la administración de su academia, reduciendo la carga operativa y los errores humanos, y facilitando la toma de decisiones.
+5. **El cliente también puede obtener beneficios adicionales** como recordatorios de pagos vencidos, seguimiento de inventario para reposición y escalabilidad mediante distintos planes por tamaño de academia.
 6. **Vamos a adquirir la mayoría de nuestros clientes mediante** marketing digital dirigido en redes sociales (Facebook, Instagram, TikTok), campañas en Google Ads y alianzas con gremios educativos.
 7. **Generaremos dinero a través de** un modelo de suscripción mensual escalable, con tres planes: Essentials $19.90 (academias pequeñas); Pro $69.90 (academias medianas); Elite $159.90 (academias grandes).
 8. **Nuestra competencia principal en el mercado son** [REVISAR] sistemas genéricos de gestión escolar, soluciones empresariales o especializadas y hojas de cálculo utilizadas por academias.
@@ -43,11 +43,11 @@ Principalmente el personal administrativo y los docentes de academias educativas
 
 **¿Qué problema tiene nuestro producto que debe resolver?**
 
-El problema radica en el desorden de los procesos administrativos, la pérdida de tiempo por tareas repetitivas, falta de visibilidad sobre pagos y asistencias y dificultad para generar reportes útiles.
+El problema radica en el desorden de los procesos administrativos, la pérdida de tiempo por tareas repetitivas, falta de visibilidad sobre pagos y asistencias.
 
 **¿Qué características son importantes?**
 
-Destacan principalmente el control de matrículas y asistencia, la asignación de horarios, salones y docentes, alertas de pagos vencidos, reportes automatizados e inventario con seguimiento de stock.
+Destacan principalmente el control de matrículas y asistencia, la asignación de horarios, salones y docentes, recordatorios de pagos vencidos e inventario con seguimiento de stock.
 
 **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
@@ -77,7 +77,7 @@ El sistema debe responder rápido, enviar notificaciones útiles y garantizar la
 - **Hypothesis 02:**
 
     [REVISAR]
-    **Creemos que** la integración de alertas de morosidad y vencimiento de pagos reducirá significativamente el retraso en los pagos de los alumnos.
+    **Creemos que** la integración de recordatorios de morosidad y vencimiento de pagos reducirá significativamente el retraso en los pagos de los alumnos.
 
     **Sabremos que** hemos tenido éxito.
 

@@ -3,6 +3,8 @@
 
 <img src="">
 
+### Chino y Nacho
+
 <h5 style="text-align: center"> Ingeniería de Software </h5>
 
 <h5 style="text-align: center"> 1ASI0729 - Desarrollo de Aplicaciones Open Source </h5>
