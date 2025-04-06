@@ -109,3 +109,4 @@ El sistema debe responder rápido, enviar notificaciones útiles y garantizar la
 
 #### 1.2.2.4 Lean UX Canvas
 
+<img src="../assets/diagrams/lean_ux_canvas.jpg">
