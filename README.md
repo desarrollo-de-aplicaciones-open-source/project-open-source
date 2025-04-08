@@ -3,8 +3,6 @@
 
 <img src="https://raw.githubusercontent.com/desarrollo-de-aplicaciones-open-source/project-open-source/refs/heads/main/assets/logos/upc_logo.png" alt="logo_upc" width="200px" style="display: block; margin-left: auto; margin-right: auto;">
 
-### Chino y Nacho
-
 <h5 style="text-align: center"> Ingeniería de Software </h5>
 
 <h5 style="text-align: center"> 1ASI0729 - Desarrollo de Aplicaciones Open Source </h5>
@@ -15,7 +13,7 @@
 
 <h5 style="text-align: center"> Startup: SmartEdu </h5>
 
-<h5 style="text-align: center"> Producto: Greenhouse </h5>
+<h5 style="text-align: center"> Producto: Demy </h5>
 
 <h2>Team members:</h2>
 
@@ -113,40 +111,45 @@ La startup **LosbAutistas** tiene como objetivo ofrecer una solución tecnológi
 ##### ¿Cuáles son las 5W?
 ###### What (Qué)
 ###### ¿Cuál es el problema?
-El problema radica en la ausencia de una herramienta cuya capacidad sea proporcionar al personal técnico, de supervisión y administrativo, un registro digital de los procesos involucrados en el crecimiento y
-elaboración de cultivos de industrias champiñoneras en el Perú. A pesar del uso de sistemas manuales para el registro de procesos, es un sistema propenso a fallos relacionados con errores humanos y resultan
-difíciles de navegar cuando se necesitan registros puntuales.
-
+El problema radica en la gestión desorganizada y manual de los procesos administrativos en academias educativas presenciales. Muchas de estas instituciones utilizan hojas de Excel, documentos físicos o plataformas no integradas, lo que genera el aumento de esfuerzo, pérdida de información, errores y una ineficiente administración de los recursos y tiempo.
 ###### When (Cuando)
 ###### ¿Cuándo sucede el problema?
-El dilema principal surge cuando se percibe la necesidad de entablar un análisis ágil y eficiente de la producción de cultivos en las industrias champiñoneras a partir de los factores ambientales y económicos dentro del contexto interno de la empresa. Asimismo, se comprende la escasez de innovación tecnológica (automatización) en el registro de cultivos.
-
+Este problema sucede de manera constante en el día a día de las academias, especialmente al inicio de ciclos academicos, al momento de inscribir alumnos, registrar asistencia, gestionar pagos, distribuir horarios y administrar recursos. La falta de automatización y centralización de procesos es una barrera persistente que afecta la eficiencia desde el primer contacto con el alumno hasta el cierre del periodo académico.
 ###### Where (Dónde)
 ###### ¿A dónde se dirige?
-El servicio está direccionado a ser agente de solución hacia las fábricas que incorporan el sector industria champiñonera del Perú.
-
+La solución está dirigida a academias privadas de nivel escolar, preuniversitario o técnico que buscan mejorar su gestión interna mediante tecnología accesible, amigable y diseñada para sus flujos operativos reales.
 ###### ¿Dónde surge el problema?
-El problema se manifiesta durante el desarrollo de las fases transcurridas para el registro de cultivos en las industrias champiñoneras. Es así que se involucra tanto al área de producción, siembra, cocción y pasteurización.
-
+Surge dentro de las academias presenciales que gestionan sus operaciones de forma tradicional en todo el país. Específicamente, el problema ocurre en las áreas administrativas, académicas y de coordinación de recursos.
 ###### Who (Quién)
 ###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
-Los usuarios del sistema serían los técnicos encargados de la supervisión de los cultivos y los administradores de las fábricas champiñoneras en Perú. El personal técnico utilizaría la aplicación para registrar y monitorear en tiempo real los datos de crecimiento, humedad, temperatura, y otros aspectos cruciales en la producción de champiñones. Por otro lado, los administradores emplearían la plataforma para acceder a información clave generada por los técnicos y, así, realizar un seguimiento más amplio de la producción. Los datos recopilados en la aplicación les permitirán tomar decisiones estratégicas informadas como la asignación de recursos, la programación de tareas y la identificación de áreas de mejora en la producción.
-
+Los principales usuarios serán el personal administrativo (coordinadores) y los docentes (para el control de asistencia y gestión de clases)
+Estos perfiles utilizarán la plataforma para registrar matrículas, gestionar pagos, asignar horarios, monitorear asistencia, controlar inventarios, y obtener reportes para la toma de decisiones.
 ###### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
-La causa principal del problema es la dificultad de incluir un sistema digital a una industria manual ya establecida. Muchos trabajadores de las fábricas champiñoneras no manejan eficientemente los medios digitales, por consiguiente, la optimización del registro de procesos vía un software de gestión resultaría ser un cambio complicado y costoso de realizar para la empresa.
+La causa del problema está en la falta de herramientas accesibles y especializadas que se adapten al contexto operativo de academias presenciales. Muchas instituciones no han adoptado soluciones tecnológicas por miedo al cambio, desconocimiento o falta de recursos, lo cual perpetúa el uso de métodos manuales que limitan su eficiencia y capacidad de crecimiento.
 
 ##### ¿Cuáles son las 2H?
 ###### How (Cómo)
 ###### ¿Cómo se utilizará el producto?
-El producto será empleado para el registro de cultivos de champiñones. A partir de ello, se segmenta este proceso en determinadas fases y se consignan los insumos o elementos esenciales, agrícolas o ambientales, en la aplicación web para propiciar la adecuada producción de los champiñones.
+La plataforma web será utilizada diariamente por el personal de la academia. A través de una interfaz amigable, podrán registrar matrículas, programar clases, marcar asistencia, ingresar pagos y gestionar inventario. Se podrá acceder desde computadoras o smartphones, permitiendo que los usuarios trabajen desde cualquier lugar con conexión a internet.
+###### ¿Cómo lograremos alcanzar la correcta gestión de los procesos administrativos de la academia dentro de la plataforma?
+Mediante el diseño de módulos para cada funcionalidad clave que hemos identificado:
 
-###### ¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?
-Los técnicos y administradores acceden a la aplicación web a través de un navegador. La aplicación les permitirá registrar datos de producción en formularios digitales específicos para cada proceso, como la preparación del sustrato (compost), la siembra, el proceso del túnel, entre otros. Los datos se almacenan en una base de datos segura y se presentan en gráficos y tablas de entendimiento dinámico para el usuario.
+- Módulo de matrícula con formularios guiados.
 
-###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-El producto será empleado para el registro de cultivos de champiñones. A partir de ello, se segmenta este proceso en determinadas fases y se consignan los insumos o elementos esenciales, agrícolas o ambientales, en la aplicación web para propiciar la adecuada producción de los champiñones.
+- Módulo de pagos con alertas automáticas de vencimientos.
+
+- Módulo de asistencia accesible para los docentes con visualización por grupo.
+
+- Módulo de horarios que permite programar docentes, salones y materias.
+
+- Modulo de reportes de horarios, y pagos.
+
+- Modulo de registro de alumnnos, profesores, secciones, aulas, sedes, etc.
+
+- Modulo de inventarios para la gestion de los  bienes de la academia. 
+
+- Dashboard administrativo. Además, se incluirán tutoriales interactivos, soporte personalizado y una prueba gratuita para facilitar la adopción del sistema.
 
 ###### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
@@ -249,3 +252,4 @@ Finalmente, en relación a las principales empresas exportadoras de champiñones
 * **Stakelholder Externos:** Personal técnico supervisor y administrador de las industrias enfocadas en el cultivo de champiñones, estudiantes y/o profesionales en carreras involucradas en agronomía, gerencia de agroempresas comerciales.
 
 ![Stakeholders Externos](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/105735491/b28e7264-8fe6-4da1-9275-59a114145d72)
+
